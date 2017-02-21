@@ -1,7 +1,7 @@
 # Tamil_Bible
 Tamil Bible (CC by SA)
 
-Gospels (4 books) available now.
+New Testament (27 books) available.
 
 Read Bible, Download Android/Desktop Apps
 
