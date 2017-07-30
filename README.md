@@ -1,11 +1,11 @@
 # Tamil_Bible
 Tamil Bible (CC by SA)
 
-New Testament (27 books) available.
+Full Bible (66 books) available now.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/tam/ (Coming soon)
+http://freebiblesindia.com/bible/tam/
 
 Thanks
 =======
