@@ -1,4 +1,7 @@
 # Tamil_Bible
+
+![icon](https://github.com/FreeBiblesIndia/Tamil_Bible/blob/master/icons/icon.png?raw=true)
+
 Tamil Bible (CC by SA)
 
 Full Bible (66 books) available now.
